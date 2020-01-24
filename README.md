@@ -1,6 +1,6 @@
 # Interval-data-converter
 
-This application flatten the data in two columns(time and volume)
+This application was made flatten the data, concretely interval data recorder(IDR) in two columns(time and volume)
 
 Prerequisites:
 Flask==1.0.2
